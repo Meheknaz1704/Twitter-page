@@ -9,13 +9,13 @@
 .box2{
       float: right;
       margin-top: -530px;
-      padding-right: 555px;
+      padding-right: 610px;
 
 }
 .box3{
     float:right;
     margin-top:-450px ;
-    padding-right: 350px;
+    padding-right: 400px;
     color: whitesmoke; 
 
 }
@@ -41,4 +41,9 @@
     font-size: xx-large;
     font-style: normal;
     font-family: sans-serif;
+}
+.box9{
+    font-size: xx-small;
+    color:grey;
+    
 }
